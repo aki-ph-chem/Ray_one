@@ -12,7 +12,7 @@ class ray{
 	    : orig(origin),dir(direction)
 	{}
 
-	pouint3 origin(void) const {
+	point3 origin(void) const {
 
 	    return orig;
 	}
